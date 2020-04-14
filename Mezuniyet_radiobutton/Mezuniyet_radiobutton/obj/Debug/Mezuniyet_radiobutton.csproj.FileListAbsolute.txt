@@ -1,0 +1,9 @@
+D:\PROJELER\Mezuniyet_radiobutton\Mezuniyet_radiobutton\bin\Debug\Mezuniyet_radiobutton.exe.config
+D:\PROJELER\Mezuniyet_radiobutton\Mezuniyet_radiobutton\bin\Debug\Mezuniyet_radiobutton.exe
+D:\PROJELER\Mezuniyet_radiobutton\Mezuniyet_radiobutton\bin\Debug\Mezuniyet_radiobutton.pdb
+D:\PROJELER\Mezuniyet_radiobutton\Mezuniyet_radiobutton\obj\Debug\Mezuniyet_radiobutton.csprojResolveAssemblyReference.cache
+D:\PROJELER\Mezuniyet_radiobutton\Mezuniyet_radiobutton\obj\Debug\Mezuniyet_radiobutton.Form1.resources
+D:\PROJELER\Mezuniyet_radiobutton\Mezuniyet_radiobutton\obj\Debug\Mezuniyet_radiobutton.Properties.Resources.resources
+D:\PROJELER\Mezuniyet_radiobutton\Mezuniyet_radiobutton\obj\Debug\Mezuniyet_radiobutton.csproj.GenerateResource.Cache
+D:\PROJELER\Mezuniyet_radiobutton\Mezuniyet_radiobutton\obj\Debug\Mezuniyet_radiobutton.exe
+D:\PROJELER\Mezuniyet_radiobutton\Mezuniyet_radiobutton\obj\Debug\Mezuniyet_radiobutton.pdb

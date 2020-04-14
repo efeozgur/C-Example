@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mezuniyet_radiobutton", "Mezuniyet_radiobutton\Mezuniyet_radiobutton.csproj", "{02E65BFF-9782-43B8-AF6B-4823101BC497}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02E65BFF-9782-43B8-AF6B-4823101BC497}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02E65BFF-9782-43B8-AF6B-4823101BC497}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02E65BFF-9782-43B8-AF6B-4823101BC497}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02E65BFF-9782-43B8-AF6B-4823101BC497}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
