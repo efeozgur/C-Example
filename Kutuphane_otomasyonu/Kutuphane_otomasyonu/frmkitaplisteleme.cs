@@ -15,7 +15,7 @@ namespace Kutuphane_otomasyonu
     {
         public frmkitaplisteleme()
         {
-            InitializeComponent();
+            InitializeComponent(); //kitap listeleme işlemleri
         }
 
         OleDbConnection baglanti = new OleDbConnection("Provider=Microsoft.ACE.OLEDB.12.0;Data Source=kutuphane.accdb");

@@ -14,7 +14,8 @@ namespace Kutuphane_otomasyonu
     {
         public frmemanetkitapliste()
         {
-            InitializeComponent();
+            InitializeComponent();// deneme 
+            //kütüphane otomasyonu github bağlantısı deneme
         }
     }
 }

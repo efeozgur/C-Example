@@ -19,7 +19,7 @@ namespace Kutuphane_otomasyonu
         }
 
 
-        OleDbConnection baglanti = new OleDbConnection("Provider=Microsoft.ACE.OLEDB.12.0;Data Source=kutuphane.accdb");
+        OleDbConnection baglanti = new OleDbConnection("Provider=Microsoft.ACE.OLEDB.12.0;Data Source=kutuphane.accdb"); // veritabanı bağlantısı yapıyoruz.
 
         private void frmkitapekleme_Load(object sender, EventArgs e)
         {

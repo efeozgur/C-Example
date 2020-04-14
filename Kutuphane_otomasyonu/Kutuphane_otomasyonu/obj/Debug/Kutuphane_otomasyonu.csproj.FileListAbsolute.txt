@@ -12,3 +12,43 @@ D:\PROJELER\Kutuphane_otomasyonu\Kutuphane_otomasyonu\obj\Debug\Kutuphane_otomas
 D:\PROJELER\Kutuphane_otomasyonu\Kutuphane_otomasyonu\obj\Debug\Kutuphane_otomasyonu.frmkitapekleme.resources
 D:\PROJELER\Kutuphane_otomasyonu\Kutuphane_otomasyonu\obj\Debug\Kutuphane_otomasyonu.frmkitaplisteleme.resources
 D:\PROJELER\Kutuphane_otomasyonu\Kutuphane_otomasyonu\obj\Debug\Kutuphane_otomasyonu.frmkitapverme.resources
+C:\Users\Pc Gamer World\Source\Repos\efeozgur\C-Example\Kutuphane_otomasyonu\Kutuphane_otomasyonu\bin\Debug\Kutuphane_otomasyonu.exe.config
+C:\Users\Pc Gamer World\Source\Repos\efeozgur\C-Example\Kutuphane_otomasyonu\Kutuphane_otomasyonu\bin\Debug\Kutuphane_otomasyonu.exe
+C:\Users\Pc Gamer World\Source\Repos\efeozgur\C-Example\Kutuphane_otomasyonu\Kutuphane_otomasyonu\bin\Debug\Kutuphane_otomasyonu.pdb
+C:\Users\Pc Gamer World\Source\Repos\efeozgur\C-Example\Kutuphane_otomasyonu\Kutuphane_otomasyonu\bin\Debug\Carbon.Data.Protection.dll
+C:\Users\Pc Gamer World\Source\Repos\efeozgur\C-Example\Kutuphane_otomasyonu\Kutuphane_otomasyonu\bin\Debug\Carbon.Packaging.dll
+C:\Users\Pc Gamer World\Source\Repos\efeozgur\C-Example\Kutuphane_otomasyonu\Kutuphane_otomasyonu\bin\Debug\Carbon.Storage.dll
+C:\Users\Pc Gamer World\Source\Repos\efeozgur\C-Example\Kutuphane_otomasyonu\Kutuphane_otomasyonu\bin\Debug\Carbon.VersionControl.dll
+C:\Users\Pc Gamer World\Source\Repos\efeozgur\C-Example\Kutuphane_otomasyonu\Kutuphane_otomasyonu\bin\Debug\Carbon.Versioning.dll
+C:\Users\Pc Gamer World\Source\Repos\efeozgur\C-Example\Kutuphane_otomasyonu\Kutuphane_otomasyonu\bin\Debug\GitHub.dll
+C:\Users\Pc Gamer World\Source\Repos\efeozgur\C-Example\Kutuphane_otomasyonu\Kutuphane_otomasyonu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Pc Gamer World\Source\Repos\efeozgur\C-Example\Kutuphane_otomasyonu\Kutuphane_otomasyonu\bin\Debug\System.Buffers.dll
+C:\Users\Pc Gamer World\Source\Repos\efeozgur\C-Example\Kutuphane_otomasyonu\Kutuphane_otomasyonu\bin\Debug\System.Memory.dll
+C:\Users\Pc Gamer World\Source\Repos\efeozgur\C-Example\Kutuphane_otomasyonu\Kutuphane_otomasyonu\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Pc Gamer World\Source\Repos\efeozgur\C-Example\Kutuphane_otomasyonu\Kutuphane_otomasyonu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Pc Gamer World\Source\Repos\efeozgur\C-Example\Kutuphane_otomasyonu\Kutuphane_otomasyonu\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Pc Gamer World\Source\Repos\efeozgur\C-Example\Kutuphane_otomasyonu\Kutuphane_otomasyonu\bin\Debug\System.Text.Json.dll
+C:\Users\Pc Gamer World\Source\Repos\efeozgur\C-Example\Kutuphane_otomasyonu\Kutuphane_otomasyonu\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Pc Gamer World\Source\Repos\efeozgur\C-Example\Kutuphane_otomasyonu\Kutuphane_otomasyonu\bin\Debug\System.ValueTuple.dll
+C:\Users\Pc Gamer World\Source\Repos\efeozgur\C-Example\Kutuphane_otomasyonu\Kutuphane_otomasyonu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Pc Gamer World\Source\Repos\efeozgur\C-Example\Kutuphane_otomasyonu\Kutuphane_otomasyonu\bin\Debug\System.Buffers.xml
+C:\Users\Pc Gamer World\Source\Repos\efeozgur\C-Example\Kutuphane_otomasyonu\Kutuphane_otomasyonu\bin\Debug\System.Memory.xml
+C:\Users\Pc Gamer World\Source\Repos\efeozgur\C-Example\Kutuphane_otomasyonu\Kutuphane_otomasyonu\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Pc Gamer World\Source\Repos\efeozgur\C-Example\Kutuphane_otomasyonu\Kutuphane_otomasyonu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Pc Gamer World\Source\Repos\efeozgur\C-Example\Kutuphane_otomasyonu\Kutuphane_otomasyonu\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Pc Gamer World\Source\Repos\efeozgur\C-Example\Kutuphane_otomasyonu\Kutuphane_otomasyonu\bin\Debug\System.Text.Json.xml
+C:\Users\Pc Gamer World\Source\Repos\efeozgur\C-Example\Kutuphane_otomasyonu\Kutuphane_otomasyonu\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Pc Gamer World\Source\Repos\efeozgur\C-Example\Kutuphane_otomasyonu\Kutuphane_otomasyonu\bin\Debug\System.ValueTuple.xml
+C:\Users\Pc Gamer World\Source\Repos\efeozgur\C-Example\Kutuphane_otomasyonu\Kutuphane_otomasyonu\obj\Debug\Kutuphane_otomasyonu.csprojAssemblyReference.cache
+C:\Users\Pc Gamer World\Source\Repos\efeozgur\C-Example\Kutuphane_otomasyonu\Kutuphane_otomasyonu\obj\Debug\Kutuphane_otomasyonu.frmanasayfa.resources
+C:\Users\Pc Gamer World\Source\Repos\efeozgur\C-Example\Kutuphane_otomasyonu\Kutuphane_otomasyonu\obj\Debug\Kutuphane_otomasyonu.frmkitapekleme.resources
+C:\Users\Pc Gamer World\Source\Repos\efeozgur\C-Example\Kutuphane_otomasyonu\Kutuphane_otomasyonu\obj\Debug\Kutuphane_otomasyonu.frmkitaplisteleme.resources
+C:\Users\Pc Gamer World\Source\Repos\efeozgur\C-Example\Kutuphane_otomasyonu\Kutuphane_otomasyonu\obj\Debug\Kutuphane_otomasyonu.frmkitapverme.resources
+C:\Users\Pc Gamer World\Source\Repos\efeozgur\C-Example\Kutuphane_otomasyonu\Kutuphane_otomasyonu\obj\Debug\Kutuphane_otomasyonu.frmuyeekleme.resources
+C:\Users\Pc Gamer World\Source\Repos\efeozgur\C-Example\Kutuphane_otomasyonu\Kutuphane_otomasyonu\obj\Debug\Kutuphane_otomasyonu.frmuyelisteleme.resources
+C:\Users\Pc Gamer World\Source\Repos\efeozgur\C-Example\Kutuphane_otomasyonu\Kutuphane_otomasyonu\obj\Debug\Kutuphane_otomasyonu.Properties.Resources.resources
+C:\Users\Pc Gamer World\Source\Repos\efeozgur\C-Example\Kutuphane_otomasyonu\Kutuphane_otomasyonu\obj\Debug\Kutuphane_otomasyonu.csproj.GenerateResource.cache
+C:\Users\Pc Gamer World\Source\Repos\efeozgur\C-Example\Kutuphane_otomasyonu\Kutuphane_otomasyonu\obj\Debug\Kutuphane_otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Pc Gamer World\Source\Repos\efeozgur\C-Example\Kutuphane_otomasyonu\Kutuphane_otomasyonu\obj\Debug\Kutuphane_otomasyonu.csproj.CopyComplete
+C:\Users\Pc Gamer World\Source\Repos\efeozgur\C-Example\Kutuphane_otomasyonu\Kutuphane_otomasyonu\obj\Debug\Kutuphane_otomasyonu.exe
+C:\Users\Pc Gamer World\Source\Repos\efeozgur\C-Example\Kutuphane_otomasyonu\Kutuphane_otomasyonu\obj\Debug\Kutuphane_otomasyonu.pdb
