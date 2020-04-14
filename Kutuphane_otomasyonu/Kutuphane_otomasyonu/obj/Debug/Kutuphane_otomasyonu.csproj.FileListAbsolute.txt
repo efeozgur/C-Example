@@ -1,0 +1,14 @@
+D:\PROJELER\Kutuphane_otomasyonu\Kutuphane_otomasyonu\bin\Debug\Kutuphane_otomasyonu.exe.config
+D:\PROJELER\Kutuphane_otomasyonu\Kutuphane_otomasyonu\bin\Debug\Kutuphane_otomasyonu.exe
+D:\PROJELER\Kutuphane_otomasyonu\Kutuphane_otomasyonu\bin\Debug\Kutuphane_otomasyonu.pdb
+D:\PROJELER\Kutuphane_otomasyonu\Kutuphane_otomasyonu\obj\Debug\Kutuphane_otomasyonu.csprojResolveAssemblyReference.cache
+D:\PROJELER\Kutuphane_otomasyonu\Kutuphane_otomasyonu\obj\Debug\Kutuphane_otomasyonu.frmanasayfa.resources
+D:\PROJELER\Kutuphane_otomasyonu\Kutuphane_otomasyonu\obj\Debug\Kutuphane_otomasyonu.Properties.Resources.resources
+D:\PROJELER\Kutuphane_otomasyonu\Kutuphane_otomasyonu\obj\Debug\Kutuphane_otomasyonu.csproj.GenerateResource.Cache
+D:\PROJELER\Kutuphane_otomasyonu\Kutuphane_otomasyonu\obj\Debug\Kutuphane_otomasyonu.exe
+D:\PROJELER\Kutuphane_otomasyonu\Kutuphane_otomasyonu\obj\Debug\Kutuphane_otomasyonu.pdb
+D:\PROJELER\Kutuphane_otomasyonu\Kutuphane_otomasyonu\obj\Debug\Kutuphane_otomasyonu.frmuyeekleme.resources
+D:\PROJELER\Kutuphane_otomasyonu\Kutuphane_otomasyonu\obj\Debug\Kutuphane_otomasyonu.frmuyelisteleme.resources
+D:\PROJELER\Kutuphane_otomasyonu\Kutuphane_otomasyonu\obj\Debug\Kutuphane_otomasyonu.frmkitapekleme.resources
+D:\PROJELER\Kutuphane_otomasyonu\Kutuphane_otomasyonu\obj\Debug\Kutuphane_otomasyonu.frmkitaplisteleme.resources
+D:\PROJELER\Kutuphane_otomasyonu\Kutuphane_otomasyonu\obj\Debug\Kutuphane_otomasyonu.frmkitapverme.resources
