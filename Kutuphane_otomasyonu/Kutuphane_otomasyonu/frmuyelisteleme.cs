@@ -92,10 +92,19 @@ namespace Kutuphane_otomasyonu
 
         private void btn_guncelle_Click(object sender, EventArgs e)
         {
+            GuncellemeOlayi();
+        }
+
+        private void GuncellemeOlayi()
+        {
             baglanti.Open();
 
-            OleDbCommand kayitguncelle = new OleDbCommand("update uyelik set adsoyad='"+txtAdSoyad.Text+"', yas='"+txt_Yas.Text+"', cinsiyet='"+cmb_Cinsiyet.Text+"', telefon='"+txt_Telefon.Text+"', adres='"+txt_Adres.Text+"', email='"+txt_Email.Text+"', okukitapsayisi='"+txt_OkuduguKitap.Text+"' where tc='" +txt_Tcno.Text+"'", baglanti);
-            kayitguncelle.ExecuteNonQuery();         
+            OleDbCommand kayitguncelle = new OleDbCommand(
+                "update uyelik set adsoyad='" + txtAdSoyad.Text + "', yas='" + txt_Yas.Text + "', cinsiyet='" +
+                cmb_Cinsiyet.Text + "', telefon='" + txt_Telefon.Text + "', adres='" + txt_Adres.Text + "', email='" +
+                txt_Email.Text + "', okukitapsayisi='" + txt_OkuduguKitap.Text + "' where tc='" + txt_Tcno.Text + "'",
+                baglanti);
+            kayitguncelle.ExecuteNonQuery();
             baglanti.Close();
             MessageBox.Show("Güncelleme İşlemi gerçekleşti", "Güncelleme İşlemleri");
             tablo.Tables["uyelik"].Clear();
@@ -107,7 +116,6 @@ namespace Kutuphane_otomasyonu
                     item.Text = "";
                 }
             }
-           
         }
 
         private void frmuyelisteleme_Load(object sender, EventArgs e)

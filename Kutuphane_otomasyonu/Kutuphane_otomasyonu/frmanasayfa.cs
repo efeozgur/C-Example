@@ -20,7 +20,7 @@ namespace Kutuphane_otomasyonu
 
         private void pictureBox1_Click(object sender, EventArgs e)
         {
-            this.Close();
+            Close();
         }
 
         private void btn_uyeekleme_Click(object sender, EventArgs e)
