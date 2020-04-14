@@ -97,7 +97,10 @@ namespace Kutuphane_otomasyonu
 
         private void GuncellemeOlayi()
         {
-            baglanti.Open();
+            if (baglanti.State == ConnectionState.Closed)
+            {
+                baglanti.Open();
+            }
 
             OleDbCommand kayitguncelle = new OleDbCommand(
                 "update uyelik set adsoyad='" + txtAdSoyad.Text + "', yas='" + txt_Yas.Text + "', cinsiyet='" +
@@ -109,6 +112,11 @@ namespace Kutuphane_otomasyonu
             MessageBox.Show("Güncelleme İşlemi gerçekleşti", "Güncelleme İşlemleri");
             tablo.Tables["uyelik"].Clear();
             uyelistele();
+            TextleriBosalt();
+        }
+
+        private void TextleriBosalt()
+        {
             foreach (Control item in Controls)
             {
                 if (item is TextBox)
